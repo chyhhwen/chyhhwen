@@ -1,4 +1,4 @@
-# chyhhwen
+# 小赤
 - 🔭 I’m currently working on deep-learning
 - 🌱 I’m currently learning java
 - 👯 I’m looking to collaborate on Dogsbody
