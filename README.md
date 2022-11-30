@@ -13,7 +13,5 @@
 ***
 ### Compact Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chyhhwen&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/chyhhwen)
-***
-### Week Stats
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chyhhwen&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+
 
