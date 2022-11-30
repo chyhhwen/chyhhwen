@@ -5,8 +5,7 @@
 - 📫 How to reach me: xiaochyh@gmail.com
 ***
 ### stats
-![Anurag's github stats]( https://github-readme-stats.vercel.app/api?username=chyhhwen])
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chyhhwen)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chyhhwen)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
