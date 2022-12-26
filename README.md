@@ -11,8 +11,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chyhhwen&repo=eraser_robot&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/chyhhwen/eraser_robot)\
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chyhhwen&repo=java-database-recognition&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/chyhhwen/java-database-recognition)\
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chyhhwen&repo=airport&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/chyhhwen/airport)\
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chyhhwen&repo=tsp-java&show_icons=true&theme=dark#gh-dark-mode-only)]
-(https://github.com/chyhhwen/tsp-java)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chyhhwen&repo=tsp-java&show_icons=true&theme=dark#gh-dark-mode-only)
 ***
 ### Compact Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chyhhwen&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/chyhhwen)
