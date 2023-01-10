@@ -5,8 +5,7 @@
 - 📫 How to reach me: xiaochyh@gmail.com
 ***
 ### Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chyhhwen&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chyhhwen&show_icons=true&theme=dark#gh-dark-mode-only)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chyhhwen&show_icons=true&theme=radical&theme=dark#gh-dark-mode-only)
 ***
 ### Researching
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chyhhwen&repo=ctf&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/chyhhwen/ctf)
