@@ -17,6 +17,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chyhhwen&repo=tsp-java)](https://github.com/chyhhwen/tsp-java)
 ***
 ### Compact Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chyhhwen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chyhhwen&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
