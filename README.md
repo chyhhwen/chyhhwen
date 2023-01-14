@@ -3,9 +3,6 @@
 - 🌱 I’m currently learning java
 - 👯 I’m looking to collaborate on Dogsbody
 - 📫 How to reach me: xiaochyh@gmail.com
-<div align="center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com?user=chyhhwen&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" />
-</div>
 ***
 ### Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chyhhwen&theme=gruvbox)](https://github.com/chyhhwen/github-readme-stats)  
@@ -21,5 +18,8 @@
 ***
 ### Compact Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chyhhwen&layout=compact&theme=gruvbox)](https://github.com/chyhhwen/github-readme-stats)
-
+***
+<div align="center">
+  <img  src="https://github-readme-streak-stats.herokuapp.com?user=chyhhwen&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" />
+</div>
 
