@@ -5,7 +5,7 @@
 - 📫 How to reach me: xiaochyh@gmail.com
 ***
 ### Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chyhhwen&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chyhhwen&hide=contribs,prs)
 ***
 ### Researching
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chyhhwen&repo=ctf)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/chyhhwen/ctf))
