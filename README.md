@@ -8,7 +8,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chyhhwen)](https://github.com/anuraghazra/github-readme-stats)
 ***
 ### Researching
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chyhhwen&repo=ctf)](https://github.com/chyhhwen/ctf)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chyhhwen&repo=ctf)](https://github.com//anuraghazra/github-readme-stats)
 *** 
 ### Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chyhhwen&repo=eraser-robot)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/chyhhwen/eraser-robot))
