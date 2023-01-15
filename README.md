@@ -5,7 +5,7 @@
 - 📫 How to reach me: xiaochyh@gmail.com
 ***
 ### Stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chyhhwen&theme=gruvbox)](https://github.com/chyhhwen/github-readme-stats)  
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chyhhwen)](https://github.com/chyhhwen/github-readme-stats)  
 ***
 ### Researching
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chyhhwen&repo=ctf)](https://github.com/chyhhwen/ctf)
@@ -17,6 +17,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=chyhhwen&repo=tsp-java)](https://github.com/chyhhwen/tsp-java)
 ***
 ### Compact Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chyhhwen&layout=compact&theme=gruvbox)](https://github.com/chyhhwen/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chyhhwen&layout=compact)](https://github.com/chyhhwen/github-readme-stats)
 ***
 
