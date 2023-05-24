@@ -9,7 +9,7 @@
 ***
 ### Researching
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chyhhwen&repo=ctf)](https://github.com/chyhhwen/ctf)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chyhhwen&repo=gan)](https://github.com/chyhhwen/gan)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chyhhwen&repo=bookstore)](https://github.com/chyhhwen/bookstore)
 *** 
 ### Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=chyhhwen&repo=eraser-robot)](https://github.com/chyhhwen/eraser-robot)
