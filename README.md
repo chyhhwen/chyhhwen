@@ -15,7 +15,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=chyhhwen&repo=image-recognition-java)](https://github.com/chyhhwen/image-recognition-java)\
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=chyhhwen&repo=airport-web)](https://github.com/chyhhwen/airport-web)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=chyhhwen&repo=tsp-java)](https://github.com/chyhhwen/tsp-java)\
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chyhhwen&repo=bookstore)](https://github.com/chyhhwen/bookstore)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chyhhwen&repo=bookstore-web)](https://github.com/chyhhwen/bookstore-web)
 ***
 ### Compact Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chyhhwen&layout=compact)](https://github.com/chyhhwen/github-readme-stats)
