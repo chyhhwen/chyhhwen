@@ -9,6 +9,7 @@
 ***
 ### Researching
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chyhhwen&repo=ctf)](https://github.com/chyhhwen/ctf)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chyhhwen&repo=manage-web)](https://github.com/chyhhwen/manage-web)
 *** 
 ### Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=chyhhwen&repo=eraser-robot)](https://github.com/chyhhwen/eraser-robot)
@@ -20,4 +21,3 @@
 ### Compact Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chyhhwen&layout=compact)](https://github.com/chyhhwen/github-readme-stats)
 ***
-
