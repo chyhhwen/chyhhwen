@@ -9,6 +9,7 @@
 ***
 ### Researching
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chyhhwen&repo=manage-web)](https://github.com/chyhhwen/manage-web)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chyhhwen&repo=database_go)](https://github.com/chyhhwen/database_go)
 *** 
 ### Practise
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chyhhwen&repo=ctf)](https://github.com/chyhhwen/ctf)
