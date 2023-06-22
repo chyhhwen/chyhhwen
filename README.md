@@ -6,9 +6,11 @@
 - ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)
+[![php](https://img.shields.io/badge/-php-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.php.net/)
 [![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+
 ***
 ### Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chyhhwen)](https://github.com/chyhhwen/github-readme-stats)  
