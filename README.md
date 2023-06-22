@@ -8,7 +8,7 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 [![Python](https://img.shields.io/badge/-Python-F7DF1E?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
   ![Go](https://img.shields.io/badge/-go-00FFFF?style=flat-square&logo=Go&logoColor=ffffff)
-  ![C#](https://img.shields.io/badge/-C##-3776AB?style=flat-square&logo=C#&logoColor=ffffff)
+  ![C#](https://img.shields.io/badge/-C/#-3776AB?style=flat-square&logo=C#&logoColor=ffffff)
 - ![html](https://img.shields.io/badge/html-FF8C00?style=flat-square&logo=html5&logoColor=ffffff)
   ![css](https://img.shields.io/badge/css-0000FF?style=flat-square&logo=css3&loColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)
