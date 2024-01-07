@@ -20,11 +20,6 @@
 ### Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chyhhwen)](https://github.com/chyhhwen/github-readme-stats)  
 ***
-### Researching
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chyhhwen&repo=manage-web)](https://github.com/chyhhwen/manage-web)
-*** 
-### Practise
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chyhhwen&repo=ctf)](https://github.com/chyhhwen/ctf)
 ### Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=chyhhwen&repo=eraser-robot)](https://github.com/chyhhwen/eraser-robot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=chyhhwen&repo=image-recognition-java)](https://github.com/chyhhwen/image-recognition-java)\
